@@ -1,0 +1,2 @@
+# lockergo
+Simplest password manager
